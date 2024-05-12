@@ -1,0 +1,15 @@
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\bin\Debug\net8.0\EcoSystem.exe
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\bin\Debug\net8.0\EcoSystem.deps.json
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\bin\Debug\net8.0\EcoSystem.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\bin\Debug\net8.0\EcoSystem.dll
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\bin\Debug\net8.0\EcoSystem.pdb
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.sourcelink.json
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.dll
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\refint\EcoSystem.dll
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.pdb
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\EcoSystem.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\EcoSystem\EcoSystem\obj\Debug\net8.0\ref\EcoSystem.dll
