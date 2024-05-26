@@ -8,18 +8,21 @@ namespace EcoSystem
 {
     public class Creature
     {
-        public readonly string Id;
+        public readonly Guid Id;
+        public readonly string Name;
         public readonly Species Species;
         public int Wins;
         public int Losses;
         public int Passes;
         public bool LostLast;
+        public (double, double) Location;
         public double WLRatio { get { return (double)Wins / (double)(Wins + Losses); } }
 
-        public Creature(Species species)
+        public Creature(Species species, string name)
         {
-            Id = Guid.NewGuid().ToString();
+            Id = Guid.NewGuid();
             Species = species;
+            Name = name;
         }
     }
 }

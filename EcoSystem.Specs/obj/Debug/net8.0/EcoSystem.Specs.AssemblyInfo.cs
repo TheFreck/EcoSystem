@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoSystem.Specs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e3abe0cb3e87a07cc085517498a239f7da8e33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8768f97562f4e5c7ecb98ac86f9925b19721a0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoSystem.Specs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoSystem.Specs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
